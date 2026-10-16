@@ -1,0 +1,8 @@
+# Personal financial data, never commit
+data/
+node_modules/
+dist/
+# Generated from personal data
+public/data/
+.gstack/
+*.tsbuildinfo
